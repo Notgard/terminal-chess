@@ -7,7 +7,7 @@ This is a simple terminal based chess game made in Java which showcases the ches
 
 Every move available in chess is normally available including castling and en-passant, these moves are made by specifying the position of chess piece to move in the terminal.
 
-![Main_Game](https://github.com/Notgard/terminal-chess/blob/main/screenshot.png)
+![Main_Game](https://github.com/Notgard/terminal-chess/blob/master/screenshot.png)
 
 ## To play ##
 
